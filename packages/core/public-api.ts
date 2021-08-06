@@ -24,6 +24,7 @@ export { DropTargetSpec } from "./src/drop-target-specification";
 export { DragSourceSpec } from "./src/drag-source-specification";
 
 export {
+  DndDirective,
   DragSourceDirective,
   DropTargetDirective,
   DragPreviewDirective
